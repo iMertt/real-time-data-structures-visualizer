@@ -67,8 +67,3 @@ The application will open in your default browser at http://localhost:3000
 
 Mert Duyar - [@iMertt](https://github.com/iMertt)
 
-## Acknowledgments
-
-- React Team
-- Framer Motion
-- Styled Components
